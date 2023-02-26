@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/dnd/static/js/main.72d885b6.js",
+    "index.html": "/dnd/index.html",
+    "main.72d885b6.js.map": "/dnd/static/js/main.72d885b6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.72d885b6.js"
+  ]
+}
