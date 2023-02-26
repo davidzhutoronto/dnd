@@ -65,7 +65,7 @@ const onDragEnd = (result, columns, setColumns) => {
   }
 };
 
-function App() {
+const App = () => {
   const [columns, setColumns] = useState(colonms);
   return (
     <div>
@@ -148,6 +148,6 @@ function App() {
       </div>
     </div>
   );
-}
+};
 
 export default App;
